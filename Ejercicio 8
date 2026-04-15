@@ -26,6 +26,8 @@ int main()
          printf("¡Casi inicia el fin de semana!\n");
          break;
      case VIERNES:
+         printf("Lograste terminar la semana vivo, felicidades!!!");
+         break;
      case SABADO:
          printf("¡Fin de semana!\n");
          break;
